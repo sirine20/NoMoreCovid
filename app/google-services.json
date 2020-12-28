@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "180510036099",
+    "project_id": "nomorecovid-2799c",
+    "storage_bucket": "nomorecovid-2799c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180510036099:android:e4c34f706db8d42a600bb6",
+        "android_client_info": {
+          "package_name": "com.dsi31.g2.nomorecovid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180510036099-olekua9ql8inevur3qa0ms9aufv5d942.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWMxb3NeW4F4gU18YB954ilh6DeSTQntE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "180510036099-olekua9ql8inevur3qa0ms9aufv5d942.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
