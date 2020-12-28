@@ -1,5 +1,20 @@
 <resources>
-    <string name="app_name">NoMoreCovid</string>
-    <!-- TODO: Remove or change this placeholder text -->
+    <string name="app_name">No More Covid</string>
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_up">sign up</string>
+    <string name="welcome">Welcome</string>
+    <string name="advices">Advices</string>
+    <string name="test">Test</string>
+    <string name="rate_us">Rate us</string>
+    <string name="password">Password</string>
+    <string name="e_mail">E-mail</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="create_account">Create account</string>
+    <string name="username">Username</string>
+    <string name="submit">submit</string>
+    <string name="rate_me">Rate Me</string>
+    <string name="message_saving_value">Saving new value</string>
+    <string name="message_getting_value">Getting last value</string>
+
 </resources>

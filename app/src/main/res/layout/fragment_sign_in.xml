@@ -12,7 +12,7 @@
         android:layout_height="wrap_content"
         android:layout_margin="20dp"
         android:autofillHints=""
-        android:hint="E mail"
+        android:hint="@string/e_mail"
         android:inputType="textEmailAddress" />
 
     <com.google.android.material.textfield.TextInputLayout
@@ -25,9 +25,19 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_margin="20dp"
-            android:hint="Password"
-            android:inputType="textPassword" />
+            android:hint="@string/password"
+            android:inputType="textPassword"
+            android:autofillHints="" />
     </com.google.android.material.textfield.TextInputLayout>
+
+    <CheckBox
+        android:id="@+id/signin_checkbox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:text="Remember Me"
+        android:textStyle="bold"
+        android:textSize="15sp"/>
 
     <Button
         android:id="@+id/btn_signin"
@@ -35,7 +45,7 @@
         android:layout_height="wrap_content"
         android:layout_margin="20dp"
         android:background="@color/colorPrimary"
-        android:text="Sign In"
+        android:text="@string/sign_in"
         android:textColor="#fff"
         android:textSize="15sp"
         android:textStyle="bold" />
