@@ -16,5 +16,22 @@
     <string name="rate_me">Rate Me</string>
     <string name="message_saving_value">Saving new value</string>
     <string name="message_getting_value">Getting last value</string>
+    <string name="fever">Fever</string>
+    <string name="dry_cough">Dry cough</string>
+    <string name="tired">Tired</string>
+    <string name="stiffness">Stiffness</string>
+    <string name="sore_throat">Sore throat</string>
+    <string name="diarrhea">Diarrhea</string>
+    <string name="conjunctivitis">Conjunctivitis</string>
+    <string name="headache">Headache</string>
+    <string name="loss_of_smell_or_taste">Loss of smell or taste</string>
+    <string name="msg_test_positif">You must stay home and call 198 !!!</string>
+    <string name="msg_test_negatif">Don\'t worry and stick to the tips</string>
+
+    <string name="always_put_on_your_mask">Always put on your mask</string>
+    <string name="clean_your_hands_with_alcohol">Clean your hands with alcohol</string>
+    <string name="don_t_be_so_close_to_other_peoples">don\'t be so close to other peoples</string>
+    <string name="always_user_a_tissue_after_cough">Always user a tissue after cough</string>
+    <string name="if_you_some_symptoms_stay_home_andcall_198">if you some symptoms stay home andcall 198</string>
 
 </resources>
