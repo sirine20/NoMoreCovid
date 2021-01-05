@@ -149,7 +149,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_margin="20dp"
-                android:background="@color/colorPrimary"
+                android:background="@color/purple_500"
                 android:text="@string/test"
                 android:textColor="#fff"
                 android:textSize="15sp"

@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">No More Covid</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sign_in">Se connecter</string>
+    <string name="sign_up">Crée un compte</string>
+    <string name="welcome">Bienvenue</string>
+    <string name="advices">Conseils</string>
+    <string name="test">Tester</string>
+    <string name="rate_us">évaluez nous</string>
+    <string name="password">Mot De Passe</string>
+    <string name="e_mail">E-mail</string>
+    <string name="confirm_password">Confirmer Mot De Passe</string>
+    <string name="create_account">Crée un compte</string>
+    <string name="username">nom utilisateur</string>
+    <string name="submit">Soumettre</string>
+    <string name="rate_me">Evalue moi</string>
+    <string name="message_saving_value">Enregistrer nouvelle valeur</string>
+    <string name="message_getting_value">Obtenir derniére valeur</string>
+
+    <string name="fever">fievre</string>
+    <string name="dry_cough">toux séche</string>
+    <string name="tired">fatiguée</string>
+    <string name="stiffness">raideur</string>
+    <string name="sore_throat">gorge irritée</string>
+    <string name="diarrhea"> La diarrhée</string>
+    <string name="conjunctivitis">Conjonctivite</string>
+    <string name="headache">mal de crane</string>
+    <string name="loss_of_smell_or_taste">perte de odeur ou de gout</string>
+    <string name="msg_test_positif">tu dois rester a la maisson et appeler 198 !!!</string>
+    <string name="msg_test_negatif">ne vous inquiétez pas et respectez les conseils</string>
+
+    <string name="always_put_on_your_mask">mets toujours ton masque</string>
+    <string name="clean_your_hands_with_alcohol">nettoyez vos mains avec alcool</string>
+    <string name="don_t_be_so_close_to_other_peoples">ne soyez pas si proche des autres</string>
+    <string name="always_user_a_tissue_after_cough">toujours utiliser un mouchoir aprés la toux</string>
+    <string name="if_you_some_symptoms_stay_home_andcall_198">si vous rester a la maison et appelez 198</string>
+</resources>
